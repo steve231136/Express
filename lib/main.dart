@@ -98,7 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'You have pushed the button...',
             ),
-            const Text('Welcome to twitter'),
+            const Text('Welcome to Flutter'),
             Text(
               '$_counter'+'times',
               style: Theme.of(context).textTheme.headline4,
